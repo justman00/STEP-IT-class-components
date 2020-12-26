@@ -4,6 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// function App {
+//   return <div></div>
+
+// }
+// App()
+
+// class App
+// App.render()
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
